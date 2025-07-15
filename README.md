@@ -45,3 +45,14 @@ Starting the game on command:
 [![asciicast](https://asciinema.org/a/nhTYIsGT1LlPxvZJJP0h7hZm9.svg)](https://asciinema.org/a/nhTYIsGT1LlPxvZJJP0h7hZm9)
 
 ---
+
+# Game brain-prime
+---
+Starting the game on command:
+`make brain-prime`
+
+## Демонстрация
+
+[![asciicast](https://asciinema.org/a/hmXtE07w21qd1f8ZKgwDldA1Z.svg)](https://asciinema.org/a/hmXtE07w21qd1f8ZKgwDldA1Z)
+
+---

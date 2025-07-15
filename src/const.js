@@ -8,4 +8,5 @@ export const descriptions = {
   gameEven: `Answer "${YES}" if the number is even, otherwise answer "${NO}".`,
   gameGCD: 'Find the greatest common divisor of given numbers.',
   gameProgression: 'What number is missing in the progression?',
+  gamePrime: `Answer "${YES}" if given number is prime. Otherwise answer "${NO}".`,
 }
