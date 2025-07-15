@@ -21,3 +21,6 @@ Starting the game on command:
 ## Демонстрация
 
 [![asciicast](https://asciinema.org/a/vnqSjgn5ulI35Biq4FEl3A94g.svg)](https://asciinema.org/a/vnqSjgn5ulI35Biq4FEl3A94g)
+
+---
+
