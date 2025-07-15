@@ -6,4 +6,5 @@ export const NO = 'no'
 export const descriptions = {
   gameCalc: 'What is the result of the expression?',
   gameEven: `Answer "${YES}" if the number is even, otherwise answer "${NO}".`,
+  gameGCD: 'Find the greatest common divisor of given numbers.',
 }
