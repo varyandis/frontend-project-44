@@ -34,3 +34,14 @@ Starting the game on command:
 [![asciicast](https://asciinema.org/a/NrB8pOhBLfynkMa1qCDD4vSZc.svg)](https://asciinema.org/a/NrB8pOhBLfynkMa1qCDD4vSZc)
 
 ---
+
+# Game brain-progression
+---
+Starting the game on command:
+`make brain-progression`
+
+## Демонстрация
+
+[![asciicast](https://asciinema.org/a/nhTYIsGT1LlPxvZJJP0h7hZm9.svg)](https://asciinema.org/a/nhTYIsGT1LlPxvZJJP0h7hZm9)
+
+---
