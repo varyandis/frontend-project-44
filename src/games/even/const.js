@@ -1,5 +1,4 @@
-export const YES = 'yes'
-export const NO = 'no'
+import { YES, NO } from '../../const.js'
 
 export const defaultAnswer = {
   yes: YES,

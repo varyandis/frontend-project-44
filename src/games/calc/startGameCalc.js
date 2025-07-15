@@ -2,9 +2,9 @@ import { startGame } from '../../startGame.js'
 import { descriptions } from '../../const.js'
 import { generateRound } from './generateRound.js'
 
-const startGameEven = () => {
-  const description = descriptions.gameEven
+const startGameCalc = () => {
+  const description = descriptions.gameCalc
   startGame(description, generateRound)
 }
 
-export default startGameEven
+export default startGameCalc

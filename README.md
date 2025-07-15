@@ -10,3 +10,14 @@ Starting the game on command:
 ## Демонстрация
 
 [![asciicast](https://asciinema.org/a/bhqtVWsf65x6Xf4CJReCtaECH.svg)](https://asciinema.org/a/bhqtVWsf65x6Xf4CJReCtaECH)
+
+---
+
+# Game brain-calc
+---
+Starting the game on command:
+`make brain-calc`
+
+## Демонстрация
+
+[![asciicast](https://asciinema.org/a/vnqSjgn5ulI35Biq4FEl3A94g.svg)](https://asciinema.org/a/vnqSjgn5ulI35Biq4FEl3A94g)
