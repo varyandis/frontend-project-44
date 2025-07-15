@@ -1,5 +1,5 @@
 export const countAttempt = 3
-export const maxRandomNumber = 10
+export const maxRandomNumber = 50
 export const YES = 'yes'
 export const NO = 'no'
 
