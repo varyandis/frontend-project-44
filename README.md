@@ -24,3 +24,13 @@ Starting the game on command:
 
 ---
 
+# Game brain-gcd
+---
+Starting the game on command:
+`make brain-gcd`
+
+## Демонстрация
+
+[![asciicast](https://asciinema.org/a/NrB8pOhBLfynkMa1qCDD4vSZc.svg)](https://asciinema.org/a/NrB8pOhBLfynkMa1qCDD4vSZc)
+
+---
